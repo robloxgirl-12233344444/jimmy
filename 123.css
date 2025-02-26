@@ -1,0 +1,10 @@
+body {
+    background-image: url('1234567890.jpg');
+    background-size: cover; 
+    background-position: center; 
+    background-attachment: fixed;
+    color: black;
+}
+a {
+    color: darkblue;
+}
